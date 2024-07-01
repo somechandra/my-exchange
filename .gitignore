@@ -1,0 +1,42 @@
+# dependencies
+/binance-frontend/node_modules
+/binance-frontend/.pnp
+binance-frontend/.pnp.js
+binance-frontend/.yarn/install-state.gz
+
+# testing
+/binance-frontend/coverage
+
+# next.js
+/binance-frontend/.next/
+/binance-frontend/out/
+
+# production
+/binance-frontend/build
+
+# misc
+binance-frontend/.DS_Store
+binance-frontend/*.pem
+
+# debug
+binance-frontend/npm-debug.log*
+binance-frontend/yarn-debug.log*
+binance-frontend/yarn-error.log*
+
+# local env files
+binance-frontend/.env*.local
+
+# vercel
+binance-frontend/.vercel
+
+# typescript
+binance-frontend/*.tsbuildinfo
+binance-frontend/next-env.d.ts
+
+
+orderbook-server/node_modules
+orderbook-server/build
+orderbook-server/out
+orderbook-server/.DS_Store
+
+.DS_Store
